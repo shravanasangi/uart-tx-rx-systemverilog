@@ -163,7 +163,4 @@ Combined: 52 LUTs and 68 registers. All user timing constraints are met at 100 M
 - TX/RX FIFOs with overrun detection
 - APB or AXI-Lite register wrapper
 - Hardware demo on an FPGA board with a PC terminal
-
-## Author
-
-Shravan
+- 
