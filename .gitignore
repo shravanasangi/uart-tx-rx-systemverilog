@@ -1,0 +1,19 @@
+# Vivado / xsim generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.backup.jou
+*.backup.log
+xsim.dir/
+.Xil/
+*.cache/
+*.sim/
+*.hw/
+*.runs/
+*.gen/
+*.ip_user_files/
+*.xpr
+webtalk*
+vivado*.zip
